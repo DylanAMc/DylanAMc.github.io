@@ -1,0 +1,16 @@
+:root {
+
+    --clr-prm-orange:hsl(25, 97%, 53%) ;
+
+    --clr-acc-lGrey: hsl(217, 12%, 63%);
+    --clr-acc-mGrey:hsl(216, 12%, 54%) ;
+    --clr-acc-blue: hsl(213, 19%, 18%);
+    --clr-acc-dBlue: hsl(216, 12%, 8%) ;
+
+
+    --ff-primary:'Overpass', sans-serif ;
+
+    --fw-reg: 400; 
+    --fw-bold: 700; 
+
+}
